@@ -1,0 +1,34 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+#data {
+	width: 90%;
+	height: 40em;
+	font-family: monospace;
+}
+
+#sliders {
+    width: 50%;
+    float: left;
+}
+
+#year {
+	text-align: center;
+	font-size: 72pt;
+}
+
+#result {
+    width: 50%;
+    float: right;
+}
+
+#log {
+	font-family: monospace;
+}
+
+#disclaimer {
+	clear: both;
+	font-style: italic;
+	font-size: 0.75em;
+}
